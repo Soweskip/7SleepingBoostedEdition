@@ -3,8 +3,8 @@
 // @namespace           .
 // @version             1.0
 // @description         Automating solve of 7speaking tests
-// @updateURL           https://raw.githubusercontent.com/Soweskip/7SleepingBoostedEdition/main/7sleeping.user.js
-// @downloadURL         https://raw.githubusercontent.com/Soweskip/7SleepingBoostedEdition/main/7sleeping.user.js
+// @updateURL           https://raw.githubusercontent.com/Soweskip/7SleepingBoostedEdition/main/7sleepingBoostedEdition.user.js
+// @downloadURL         https://raw.githubusercontent.com/Soweskip/7SleepingBoostedEdition/main/7sleepingBoostedEdition.user.js
 // @author              Gamray
 // @match               https://user.7speaking.com/*
 // @icon                https://www.google.com/s2/favicons?sz=64&domain=7speaking.com
