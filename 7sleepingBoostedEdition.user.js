@@ -313,6 +313,7 @@ const colorEnabledDark = "#6dc8c2";
                         } else {
                             delay = value
                         }
+                        localStorage.setItem('maxDelay', delay);
                         console.log("[DEBUG] - New delay value: ", delay)
                     })
                 }
