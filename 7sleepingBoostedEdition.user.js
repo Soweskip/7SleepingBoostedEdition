@@ -104,7 +104,7 @@ const colorEnabledDark = "#6dc8c2";
 
     let enabled = false
     let errors = localStorage.getItem('errors') ?? 30;
-    let delay = localStorage.getItem('delay') ?? 30
+    let delay = localStorage.getItem('maxDelay') ?? 30
 
     let allQuizzTypes = ["fill", "grammar", "choice"]
 
